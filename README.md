@@ -1,3 +1,23 @@
+# 🚀 Minha API
+
+API desenvolvida em **Node.js** com **Prisma ORM**, com o objetivo de fornecer uma base para aplicações backend modernas e escaláveis.
+
+---
+
+## 📁 Estrutura do Projeto
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![api](https://github.com/user-attachments/assets/24c763d0-e566-4399-b0b6-bb27fe4756e0)
 ![api2](https://github.com/user-attachments/assets/27b1bdc7-86b3-4e10-89c2-42921cc71956)
 ![api3](https://github.com/user-attachments/assets/89713c49-22a5-4468-8427-d8209b47b044)
